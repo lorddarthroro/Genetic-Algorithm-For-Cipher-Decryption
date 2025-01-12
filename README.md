@@ -1,10 +1,14 @@
 # Genetic Algorithm Cipher Decryption 🧬🔐
 This project demonstrates the use of a genetic algorithm (GA) to decrypt a simple substitution cipher. The encryption maps each letter in the plaintext to a unique character in the ciphertext using a one-to-one random substitution. The decryption process uses a GA to iteratively optimize a mapping, aiming to recover the original plaintext.
 
+# 🔥Challenge For the Reader!🔥
+
+I've left a ciphertext in the repository that is not able to be decrypted with the current script. Try adjusting the parameters, fitness model, and word list to see if you can decrypt it!
+
 # Why Use a Genetic Algorithm for Deciphering?💡
 Substitution ciphers are a type of monoalphabetic cipher where each letter in the plaintext is replaced with another letter or symbol. To decrypt such a cipher, one must determine the correct mapping of ciphertext symbols back to plaintext letters.
 
-## Challenge: 
+## The Challenge: 
 There are 
 26
 !
