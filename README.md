@@ -8,7 +8,7 @@ I've left a ciphertext in the repository that is not able to be decrypted with t
 # Why Use a Genetic Algorithm for Deciphering?💡
 Substitution ciphers are a type of monoalphabetic cipher where each letter in the plaintext is replaced with another letter or symbol. To decrypt such a cipher, one must determine the correct mapping of ciphertext symbols back to plaintext letters.
 
-## The Challenge: 
+## The Challenge⚔️: 
 There are 
 26
 !
